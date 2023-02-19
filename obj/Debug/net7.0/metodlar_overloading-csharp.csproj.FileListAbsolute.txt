@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\bin\Debug\net7.0\metodlar_overloading-csharp.exe
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\bin\Debug\net7.0\metodlar_overloading-csharp.deps.json
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\bin\Debug\net7.0\metodlar_overloading-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\bin\Debug\net7.0\metodlar_overloading-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\bin\Debug\net7.0\metodlar_overloading-csharp.pdb
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\refint\metodlar_overloading-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.pdb
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\metodlar_overloading-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\metodlar_overloading-csharp\obj\Debug\net7.0\ref\metodlar_overloading-csharp.dll
